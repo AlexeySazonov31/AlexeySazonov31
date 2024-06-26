@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**AlexeySazonov31/AlexeySazonov31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior+ Developer focused on building scalable, user-friendly web applications.
 
-Here are some ideas to get you started:
+## 🌟 Interests
+- Reading 📚
+- Traveling ✈️
+- Biking 🚴
+- Snowboarding 🏂
+- Movies 🎬
+- Family & Friends 👨‍👩‍👧‍👦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always exploring new technologies and eager to learn!
