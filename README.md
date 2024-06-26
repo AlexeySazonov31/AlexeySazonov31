@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Alexey!
 
-I'm a Junior+ Developer focused on building scalable, user-friendly web applications.
+I'm a Junior Developer focused on building scalable, user-friendly web applications.
 
 ## 🌟 Interests
 - Reading 📚
